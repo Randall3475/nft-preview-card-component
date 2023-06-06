@@ -86,6 +86,7 @@ export const PriceHolder = styled.div`
 
 export const TimeHolder = styled.div`
   display: flex;
+  align-items: center;
   column-gap: 7.79px;
 `;
 
