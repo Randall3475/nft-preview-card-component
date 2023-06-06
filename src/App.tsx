@@ -8,7 +8,7 @@ const App = () => {
   return (
     <>
       <Global />
-      <Main role="main">
+      <Main>
         <NFTPreviewCard
           image={Equilibrium}
           name="Equilibrium"
